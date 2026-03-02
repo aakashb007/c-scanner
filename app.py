@@ -2124,7 +2124,7 @@ def render_card(res, is_sniper=False):
 with st.sidebar:
     st.markdown("""
 <div style="padding:14px 0 18px;border-bottom:1px solid var(--border,#e2e5f0);margin-bottom:14px;">
-  <div style="font-family:'Geist Mono',monospace;font-size:.62rem;font-weight:700;letter-spacing:.2em;color:#7a82a0;">⚡ APEX 2</div>
+  <div style="font-family:'Geist Mono',monospace;font-size:.62rem;font-weight:700;letter-spacing:.2em;color:#7a82a0;">⚡ APEX2</div>
   <div style="font-family:'Geist Mono',monospace;font-size:.52rem;color:#9ca3af;margin-top:2px;letter-spacing:.1em;">Pump & Dump Intelligence</div>
 </div>""", unsafe_allow_html=True)
     nav = st.radio("", ["🔥 Scanner","⚙️ Settings","📒 Journal"], label_visibility="collapsed")
@@ -2205,7 +2205,7 @@ with st.sidebar:
 
 # ─── HEADER / TICKER ─────────────────────────────────────────────────────────
 st.markdown("""<div style="padding:18px 0 14px;">
-  <div style="font-family:'Geist Mono',monospace;font-size:1.5rem;font-weight:700;color:#0f1117;">APEX</div>
+  <div style="font-family:'Geist Mono',monospace;font-size:1.5rem;font-weight:700;color:#0f1117;">APEX2</div>
   <div style="font-family:'Geist Mono',monospace;font-size:.56rem;font-weight:400;letter-spacing:.16em;color:#7a82a0;text-transform:uppercase;margin-top:2px;">Pump & Dump Intelligence Terminal</div>
 </div>""", unsafe_allow_html=True)
 
